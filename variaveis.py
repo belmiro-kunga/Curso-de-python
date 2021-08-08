@@ -1,26 +1,21 @@
-# Criar uma variavel simples
+#Criação de variáveis
+#x = 5
+#y = "Belmiro"
 
-#x = 12
 #print(x)
+#print(y)
 
-#pergunta = 14
+#x = 4
 
-#resposta = 12
-#num_1 = 2
-#NUM_1 = 1
-#print(num_1 )
-#print(NUM_1)
+#X = 'salario'
 
-# erro em declaração de variaveis
+#print(X)
 
-# 1nunmero = 1
+#Tipos de Varíaveis
+x = str(2)
+y = int = (3)
+z = float(5)
 
-#print(1nunmero)
-
-#nuemro_grande = 1
-#print(nuemro_grande)
-
-
-# String
-nome = 'Belmiro'
-print('Ola tudo bem', nome)
+print(x)
+print(y)
+print(z)
