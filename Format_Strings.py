@@ -17,4 +17,6 @@ print(txt.format(anos))
 quantidade = 3
 item  = 234
 preco = 456.98
-compras = "quero {} "
+compras = "Eu quero pagar {2}  kz por {0} pecas do item {1}"
+
+print(compras.format(quantidade , item, preco ))
